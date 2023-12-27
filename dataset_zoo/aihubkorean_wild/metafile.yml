@@ -1,0 +1,20 @@
+Name: '한국어글자체 (손글씨, 인쇄체, 인쇄체_증강데이터, Text_in_the_wild)'
+Data:
+  Website: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=81
+  Language:
+    - Korean
+  Scene:
+    - Handwritting
+    - Printing
+    - Printing Augmentation
+    - Text in the wild
+  Tasks:
+    - textdet
+    - textrecog
+    - textspotting
+  License:
+    Type: public
+    Link: 한국지능정보사회진흥원
+  Format: .json
+  Keywords:
+    - Various Fonts
